@@ -30,6 +30,11 @@ dependencies {
 	// https://mvnrepository.com/artifact/org.mariadb.jdbc/mariadb-java-client
 	implementation 'org.mariadb.jdbc:mariadb-java-client:2.7.4'
 
+	// https://mvnrepository.com/artifact/com.querydsl/querydsl-core
+	implementation 'com.querydsl:querydsl-core:4.4.0'
+	// https://mvnrepository.com/artifact/com.querydsl/querydsl-jpa
+	implementation 'com.querydsl:querydsl-jpa:4.4.0'
+
 
 
 }
